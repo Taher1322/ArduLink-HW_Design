@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BUZ_PWM Pin=J7-3
+Removed Pin From Net: NetName=DS18_DATA Pin=J7-4
+Added Pin To Net: NetName=DS18_DATA Pin=J7-3
+Added Pin To Net: NetName=BUZ_PWM Pin=J7-4

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=BT_RX Pin=J7-7
+Removed Pin From Net: NetName=BT_TX Pin=J7-8
+Change Component Designator: OldDesignator=DAC_OP NewDesignator=TP1
+Change Component Designator: OldDesignator=TP2_VCC NewDesignator=TP2
+Added Component: Designator=R7(0402_Passive_Resistor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF0000TCE_C17168.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "0402WGF0000TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0402_Passive_Resistor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF0000TCE_C17168.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "0402WGF0000TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=BT_TX Pin=R7-2
+Added Pin To Net: NetName=BT_RX Pin=R9-2
+Added Pin To Net: NetName=A_RX Pin=J7-8
+Added Pin To Net: NetName=A_RX Pin=R7-1
+Added Net: Name=A_RX
+Added Pin To Net: NetName=A_TX Pin=J7-7
+Added Pin To Net: NetName=A_TX Pin=R9-1
+Added Net: Name=A_TX
+Added Member To Class: ClassName=Schematics Member=Component R7 0 Ohm
+Added Member To Class: ClassName=Schematics Member=Component R9 0 Ohm

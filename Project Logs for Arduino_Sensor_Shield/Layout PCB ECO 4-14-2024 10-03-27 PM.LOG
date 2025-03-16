@@ -1,0 +1,24 @@
+Change component parameters: Designator = "C3" ("C3"); Footprint = "1206_Passive_Capacitor"; UniqueID = "\IUKNNUGW" ("\IUKNNUGW")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/CL31A226MOCLNNC/1276-2728-1-ND/3890814/?itemSeq=304982363"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part"; Value = "1276-2728-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "CL31A226KPHNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "1206_Passive_Capacitor"; UniqueID = "\LEKAZTRU" ("\LEKAZTRU")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/C1206C105M4RACTU/399-8150-1-ND/3471873/?itemSeq=304982366"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part"; Value = "399-8150-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C1848"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "CL31B105KBHNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED1" ("LED1"); Footprint = "LED"; UniqueID = "\VGJZNFVF" ("\VGJZNFVF")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/LTST-C150CKT/160-1167-1-ND/269239/?itemSeq=304982368"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part"; Value = "160-1167-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C93133"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED3" ("LED3"); Footprint = "LED"; UniqueID = "\WUVGFOGT" ("\WUVGFOGT")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/LTST-C150CKT/160-1167-1-ND/269239/?itemSeq=304982368"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part"; Value = "160-1167-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C93133"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"

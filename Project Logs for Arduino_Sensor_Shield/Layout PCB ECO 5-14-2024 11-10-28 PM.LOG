@@ -1,0 +1,25 @@
+Change Component Comment : Designator=R3 Old Comment=4.7Ohm New Comment=4.7KOhm
+Change Component Comment : Designator=R6 Old Comment=4.7Ohm New Comment=4.7KOhm
+Change component parameters: Designator = "LS1" ("LS1"); Footprint = "XDCR_AT-1224-TWT-5V-2-R"; UniqueID = "\LEHCGLMA" ("\LEHCGLMA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AT-1224-TWT-5V-2-R/PUI%20Audio,%20Inc./view-part/453710/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C417411"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "PUI Audio,"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AT-1224-TWT-5V-2-R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "PUI Audio,"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/AT-1224-TWT-5V-2-R/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AT-1224-TWT-5V-2-R/PUI%20Audio,%20Inc./view-part/453710/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "1206_Passive_Resitor"; UniqueID = "\RHIUSQKB" ("\RHIUSQKB")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810301414_UNI-ROYAL-Uniroyal-Elec-1206W4F4701T5E_C17936.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C17936"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "1206W4F4701T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7KOhm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "1206_Passive_Resitor"; UniqueID = "\IRDPUAEM" ("\IRDPUAEM")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810301414_UNI-ROYAL-Uniroyal-Elec-1206W4F4701T5E_C17936.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C17936"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "1206W4F4701T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7KOhm"; VariantName = "[No Variations]"

@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=DAC_OUTPUT NewDesignator=TP1
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "Switch_JLC"; UniqueID = "\SAUGVYJK" ("\SAUGVYJK")
+Change component parameters (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2106081532_Shenzhen-Kinghelm-Elec-KH-4.5X4.5X4.3H-STM_C2837550.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C2837550"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "KH-4.5X4.5X4.3H-STM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"

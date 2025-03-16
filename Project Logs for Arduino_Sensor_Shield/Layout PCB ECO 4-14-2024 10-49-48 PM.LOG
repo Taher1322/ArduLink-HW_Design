@@ -1,0 +1,24 @@
+Change component parameters: Designator = "R1" ("R1"); Footprint = "1206_Passive_Resitor"; UniqueID = "\XXLSEAXK" ("\XXLSEAXK")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part"; Value = "RNCP1206FTD1K00CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "1206W4F1001T5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "1206_Passive_Resitor"; UniqueID = "\ADPDUHLE" ("\ADPDUHLE")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part"; Value = "RNCP1206FTD1K00CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "1206W4F1001T5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "1206_Passive_Resitor"; UniqueID = "\ESJSYGMI" ("\ESJSYGMI")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part"; Value = "RNCP1206FTD1K00CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "1206W4F1001T5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "1206_Passive_Resitor"; UniqueID = "\CLMFWEHB" ("\CLMFWEHB")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part"; Value = "RNCP1206FTD1K00CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "1206W4F1001T5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
