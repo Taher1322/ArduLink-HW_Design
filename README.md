@@ -14,7 +14,7 @@ This repository includes all the design files - schematics and layout
 
 </br>
 
-![Schematics](https://github.com/Taher1322/ArduLink-HW_Design/blob/main/Arduino_Sensor_Shield.pdf)
+![Schematics](https://github.com/Taher1322/ArduLink-HW_Design/blob/main/Schematics.png)
 
 ![ArduLink Shield](https://github.com/Taher1322/ArduLink-Firmware/blob/main/Screenshot%202025-03-13%20195432.png)
 
